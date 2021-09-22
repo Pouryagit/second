@@ -1,3 +1,3 @@
 # second
-this is my second repository in github.
+this is my second repository in Github.
 i'm compeletly confused!
